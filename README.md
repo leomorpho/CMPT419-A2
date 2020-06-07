@@ -2,6 +2,8 @@
 
 To run the notebook: `jupyter lab`
 
+Try to run the above models on a dataset with cropped face images, as done [here](https://stackoverflow.com/questions/13211745/detect-face-then-autocrop-pictures) 
+
 ---
 
 ### Description
